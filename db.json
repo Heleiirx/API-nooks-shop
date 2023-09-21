@@ -1,124 +1,365 @@
 {
     "product": [
-        {
-            "img": "https://www.claroshop.com/c/star-wars-day/img/categorias/TAZAS_CATEGORIAS_STAR_WARS.png",
-            "name": "Trooper taza",
-            "price": "$60.00",
-            "Description": "Taza casco Trooper",
-            "category": "starwars",
-            "id": 1
-        },
-        {
-            "img": "https://cdn1.coppel.com/images/catalog/mkp/1773/5000/17733590-1.jpg",
-            "name": "Funko Vader",
-            "price": "$60.00",
-            "Description": "Funko coleccionable Darth vader",
-            "category": "starwars",
-            "id": 2
-        },
-        {
-            "img": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA12N6pr.img?w=500&h=500&m=6",
-            "name": "Grogu (Baby Yoda)",
-            "price": "$100.00",
-            "Description": "Grogu peluche electrónico",
-            "category": "starwars",
-            "id": 3
-        },
-        {
-            "img": "https://cdn.shopify.com/s/files/1/0563/9831/5692/files/luke-skywalker-lightsaber-hilt.png?v=1656863305",
-            "name": "Lightsaber",
-            "price": "$3000.00",
-            "Description": "Sable de luz para duelos",
-            "category": "starwars",
-            "id": 4
-        },
-        {
-            "img": "https://tooys.mx/media/wysiwyg/Darth_Vader-estatua-premium-format-por-sideshow-19.png",
-            "name": "Darth Vader",
-            "price": "$450.00",
-            "Description": "DarDarth  Vader figura de coleción",
-            "category": "starwars",
-            "id": 5
-        },
-        {
-            "img": "https://www.cibermoda.mx/assets/images/craft_images/productos/Consola-Retro-Portatil-X12-Plus-pantalla-7-pulgadas-color-rojo-azul-joystick.webp",
-            "name": "X12 Plus",
-            "price": "$4500.00",
-            "Description": "consola portatil, 16 Gb de RAM",
-            "category": "consolas",
-            "id": 1
-        },
-        {
-            "img": "https://revistasociosams.com/wp-content/uploads/2021/03/control-inalambrico-Xbox%E2%80%8B-1.png",
-            "name": "Control Xbox One",
-            "price": "$950.00",
-            "Description": "Control Xbox serie One",
-            "category": "consolas",
-            "id": 2
-        },
-        {
-            "img": "https://www.incentivosblackhawk.com.mx/wp-content/uploads/2022/05/Steam.png",
-            "name": "Steam Card",
-            "price": "$200.00",
-            "Description": "steam card 200 pelucholares",
-            "category": "consolas",
-            "id": 3
-        },
-        {
-            "img": "https://www.techpowerup.com/review/scuf-impact-controller-ps4-pc/images/small.png",
-            "name": "Control usb",
-            "price": "$500.00",
-            "Description": "Control de china",
-            "category": "consolas",
-            "id": 4
-        },
-        {
-            "img": "https://virtumaniacos.com/wp-content/uploads/2022/03/playstation-vr-visor.webp",
-            "name": "Oculus Quest 2 ",
-            "price": "$4500.00",
-            "Description": "Su versatilidad nos va a permitir usarlas en formato Standalone, es decir no depende de ningún otro elemento como cámaras o hardware externo, y esto las ha convertido el las gafas VR más vendidas desde 2020. Incluso puedes conectarlas a un ordenador (opcional) por cable o por wifi para jugar a juegos y usar aplicaciones aún más exigentes. ",
-            "category": "consolas",
-            "id": 5
-        },
-        {
-            "img": "https://otakutienda.com/cdn/shop/products/IMG_5186_580x.png?v=1644943571",
-            "name": "Pikachu Itachi  edition",
-            "price": "$500.00",
-            "Description": "Edición especial Pikachu Itachi  anbu",
-            "category": "diversos",
-            "id": 1
-        },
-        {
-            "img": "https://ggezstore.net/wp-content/uploads/2021/12/DEADPOOL-PIKACHU-e1640658722195.png",
-            "name": "Pikachu Deadpool",
-            "price": "$250.00",
-            "Description": "Pikachu edición deadpool",
-            "category": "diversos",
-            "id": 2
-        },
-        {
-            "img": "https://cdn.shopify.com/s/files/1/2437/4099/products/spider-man_marvel_silo_480x672.png?v=1649713239",
-            "name": "Spiderman Hot Toys",
-            "price": "$660.00",
-            "Description": "Hot Toys CosRider: Marvel Spider Man Far From Home - Spider Man — Distrito Max",
-            "category": "diversos",
-            "id": 3
-        },
-        {
-            "img": "https://www.panupli.es/3364-large_default/funko-pop-es-dla-gandalf-montado-en-gwaihir.jpg",
-            "name": "Funko Gandalf en Gwaihir",
-            "price": "$600.00",
-            "Description": "Colecciona el Funko POP de Gandalf montado en el águila Gwaihir de las increíbles películas de El Señor de los Anillos",
-            "category": "diversos",
-            "id": 4
-        },
-        {
-            "img": "https://lemongamesmx.com/cdn/shop/products/fun55641-dragon-ball-z-cell-first-form-glow-in-the-dark-pop-vinyl-figure-popcultcha-01_480x480.png?v=1661980008",
-            "name": "Cell DBZ",
-            "price": "$450.00",
-            "Description": "Cell primera forma, retroiluminado",
-            "category": "diversos",
-            "id": 5
-        }
+      {
+        "id": 0,
+        "item": "Silla sirena",
+        "price": 11140,
+        "img": "assets/img/furn-.webp",
+        "category": "Muebles",
+        "description": "Silla de sirena hecha con productos y materiales maritimos, por el reconocido diseñador Pascal"
+      },
+      {
+        "img": "assets/img/furn-apple-chair.webp",
+        "category": "Muebles",
+        "item": "Silla de manzana",
+        "price": "45800",
+        "description": "Silla de manzana",
+        "id": "05920b0a-fe5e-46df-bf4c-81c369dfb2ee"
+      },
+      {
+        "img": "assets/img/furn-garden-chair.webp",
+        "category": "Muebles",
+        "item": "Silla de jardin",
+        "price": "9600",
+        "description": "Silla de jardin rustica",
+        "id": "90231bca-b426-4d4f-be99-4ef8462cc771"
+      },
+      {
+        "img": "assets/img/clo-watermelon-dress.png",
+        "category": "Ropa",
+        "item": "Vestido de sandía",
+        "price": "1500",
+        "description": "Vestido inspirado en en sencillo \"Watermelon sugar\" del famoso compositor KK Styles",
+        "id": "0e72658e-8b06-4a68-a3eb-3e4a48e63c21"
+      },
+      {
+        "img": "assets/img/furn-apple-tv.webp",
+        "category": "Muebles",
+        "item": "Televisor de manzana",
+        "price": "20600",
+        "description": "Televisor de la colección de verano de Nooks",
+        "id": "38fa0cc2-ff43-49bd-841c-a92ad05257aa"
+      },
+      {
+        "img": "assets/img/furn-garden-banking.webp",
+        "category": "Muebles",
+        "item": "Banca de járdin",
+        "price": "4400",
+        "description": "Banca de jardín hecha con madera de los bosques de islas desiertas en la zona Nooks",
+        "id": "d126df53-935b-4a0d-94b1-1db32a05e6e0"
+      },
+      {
+        "img": "assets/img/furn-garden-table.png",
+        "category": "Muebles",
+        "item": "Mesa de jardin",
+        "price": "5045",
+        "description": "Mesa de jardín que complementa nuestra colección",
+        "id": "d42eaffb-55cb-4313-91f1-61cfa3254039"
+      },
+      {
+        "img": "assets/img/clo-black-dress.webp",
+        "category": "Ropa",
+        "item": "Vestido estilo e-girl",
+        "price": "8450",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+        "id": "74b8c4c2-879d-45b8-a6fc-fea73b05caa3"
+      },
+      {
+        "img": "assets/img/clo-medieval-dress.webp",
+        "category": "Ropa",
+        "item": "Vestido medieval",
+        "price": "12500",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+        "id": "417d98cd-d01c-451e-9871-a94799475f01"
+      },
+      {
+        "img": "assets/img/clo-nude-dress.webp",
+        "category": "Ropa",
+        "item": "Vestido estilo coquete",
+        "price": "3150",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+        "id": "2b2030e0-d2f6-45dd-bed9-52426a31db30"
+      },
+      {
+        "img": "assets/img/clo-pink.webp",
+        "category": "Ropa",
+        "item": "Vestido princesa peach",
+        "price": "13400",
+        "description": "Vestido inspirado en la princesa peach de los famosos juegos de nintendo Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna ",
+        "id": "9adaabca-17cc-4a44-ae95-08969ad90bad"
+      },
+      {
+        "img": "assets/img/clo-sailormoon-dress.png",
+        "category": "Ropa",
+        "item": "Vestido Sailor Moon",
+        "price": "25000",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+        "id": "94943ba2-8f86-4aff-af7c-b48e6f2023ba"
+      },
+      {
+        "img": "assets/img/clo-yellow-dress.webp",
+        "category": "Ropa",
+        "item": "Vestido bailarina",
+        "price": "24050",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+        "id": "603b1900-25da-4982-8872-b2f18c95de70"
+      },
+      {
+        "img": "assets/img/furn-mermaid-armchair.webp",
+        "category": "Muebles",
+        "item": "Sofá de sirena",
+        "price": "84250",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+        "id": "279c84e5-2ca1-4173-a1f0-30964c6e8575"
+      },
+      {
+        "img": "assets/img/furn-mermaid-bed.webp",
+        "category": "Muebles",
+        "item": "Cama de sirena",
+        "price": "64809",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+        "id": "1ce25133-f869-4cfa-ba8d-bbaac03cdb96"
+      },
+      {
+        "img": "assets/img/furn-pear-chair.png",
+        "category": "Muebles",
+        "item": "Silla de pera",
+        "price": "45069",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+        "id": "ae4da38d-bce5-4df6-b543-4088e9f22183"
+      },
+      {
+        "img": "assets/img/kk-bubblegum.png",
+        "category": "Musica",
+        "item": "Sencillo bubblegum",
+        "price": "54800",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+        "id": "4363bd08-e8c6-4e86-80b5-351b081238ec"
+      },
+      {
+        "img": "assets/img/kk-gangsta.png",
+        "category": "Musica",
+        "item": "Cruisin",
+        "price": "45000",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+        "id": "de6444e1-60fb-4917-96cf-75aaaad4ff82"
+      },
+      {
+        "img": "assets/img/kk-idol.png",
+        "category": "Musica",
+        "item": "KK Robot Synth",
+        "price": "95000",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n",
+        "id": "4a6baac2-b16f-4105-898d-6bd91f5d5752"
+      },
+      {
+        "img": "assets/img/kk-metal.webp",
+        "category": "Musica",
+        "item": "KK Metal",
+        "price": "87505",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+        "id": "86807e81-5f5e-4c61-8975-86b362bd8333"
+      },
+      {
+        "img": "assets/img/kk-relax.png",
+        "category": "Musica",
+        "item": "KK Parade",
+        "price": "24550",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+        "id": "8822ad20-220f-4337-9927-f1d81087465d"
+      },
+      {
+        "img": "assets/img/kk-rockability.png",
+        "category": "Musica",
+        "item": "KK Rockability",
+        "price": "45550",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+        "id": "f8e2ea98-5c2d-4649-b65e-65bd1290ceb9"
+      },
+      {
+        "img": "assets/img/kk-rocking.png",
+        "category": "Musica",
+        "item": "Rocking KK",
+        "price": "88500",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+        "id": "6d6ab042-dbff-4634-ac17-340a5bafb660"
+      },
+      {
+        "img": "assets/img/hs-bear.jpg",
+        "category": "Property",
+        "item": "Casa Finlandia",
+        "price": "490800",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "id": "2250ec69-ac7d-4c53-89dd-cd7767b85c20"
+      },
+      {
+        "img": "assets/img/hs-bosque.jpg",
+        "category": "Property",
+        "item": "Casa bosque",
+        "price": "348000",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n",
+        "id": "db3f7002-2662-4518-beb3-c3b13e4a57a8"
+      },
+      {
+        "img": "assets/img/hs-canadá.jpg",
+        "category": "Property",
+        "item": "Casa Canadá",
+        "price": "585000",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "id": "8be5dd70-d5a4-49e2-a1e2-5726f44bd4a2"
+      },
+      {
+        "img": "assets/img/hs-mansion.jpg",
+        "category": "Property",
+        "item": "Casa Londres",
+        "price": "689000",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "id": "095e9cad-1cbb-4a67-9076-a5e0d7fc2943"
+      },
+      {
+        "img": "assets/img/hs-pool.jpg",
+        "category": "Property",
+        "item": "Casa México",
+        "price": "653000",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "id": "9b92a642-cdd2-45a7-b16d-0285a53d4471"
+      },
+      {
+        "img": "assets/img/hs-secilla.jpg",
+        "category": "Property",
+        "item": "Casa EE UU",
+        "price": "278000",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "id": "cfa41e95-1d2b-4164-bc43-13f49d81c267"
+      },
+      {
+        "img": "assets/img/hs-simple.jpg",
+        "category": "Property",
+        "item": "Casa Suiza",
+        "price": "790000",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "id": "624f4caa-cd2e-469c-87cc-9a078864c055"
+      },
+      {
+        "img": "assets/img/hs-transilvania.jpg",
+        "category": "Property",
+        "item": "Casa Transilvania",
+        "price": "456000",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "id": "bde1eb4b-3cd6-42a3-bffd-6d9e1a53abd6"
+      },
+      {
+        "img": "assets/img/kk-styles.jpg",
+        "category": "Musica",
+        "item": "KK Styles",
+        "price": "25000",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+        "id": "78d6e9b5-5e1d-4bf4-9222-30ea65fd490b"
+      },
+      {
+        "img": "assets/img/kk-romance.png",
+        "category": "Musica",
+        "item": "KK Revange",
+        "price": "75000",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+        "id": "86bf7098-1ba5-43c5-8eec-ad29a015dfce"
+      },
+      {
+        "img": "assets/img/kk-neverslide.jpg",
+        "category": "Musica",
+        "item": "KK NeverSlide",
+        "price": "45000",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+        "id": "d199c397-539e-4406-9226-342e2fc986c4"
+      },
+      {
+        "img": "assets/img/clo-frog.png",
+        "category": "Ropa",
+        "item": "Playera rana",
+        "price": "35000",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+        "id": "06af843b-296d-4a65-977a-eda9000a007e"
+      },
+      {
+        "img": "assets/img/clo-pompompurin.png",
+        "category": "Ropa",
+        "item": "Playera Pimpompurin",
+        "price": "65000",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+        "id": "08121984-c0a7-446d-9fc5-48c537ec59d0"
+      },
+      {
+        "img": "assets/img/clo-strawberry.png",
+        "category": "Ropa",
+        "item": "Vestido fresa",
+        "price": "65050",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+        "id": "e0c65529-c9cc-4b1c-9aa7-c27878653ccf"
+      }
+    ],
+    "profile": [
+      {
+        "clientName": "Itzel",
+        "email": "itzel@mail.com",
+        "password": "Bokuto04",
+        "id": 100294,
+        "admin": true
+      },
+      {
+        "clientName": "Heleir",
+        "email": "admin@mail.com",
+        "password": "Admin01",
+        "id": 200894,
+        "admin": true
+      },
+      {
+        "clientName": "Heleir",
+        "email": "hola@mail.com",
+        "password": "Holaaaa123",
+        "id": "77407d72-1228-4592-8257-e4433dc66b53",
+        "admin": false
+      },
+      {
+        "clientName": "Heleir",
+        "email": "heleir@mail.com",
+        "password": "Holaaa04",
+        "id": "9408ed4e-46a3-4a7a-ad64-ef1557e0362f",
+        "admin": false
+      },
+      {
+        "clientName": "Paco",
+        "email": "paco@mail.com",
+        "password": "Holaaa123",
+        "id": "84d68e26-89ff-42ef-a23c-07a715019d53",
+        "admin": false
+      },
+      {
+        "clientName": "Hola",
+        "email": "hola@mail.com",
+        "password": "Gola123456",
+        "id": "4a35e907-75fd-4af2-ace3-6849c8f47773",
+        "admin": false
+      },
+      {
+        "clientName": "Juan",
+        "email": "juanperez@mail.com",
+        "password": "Juan123456",
+        "id": "1066bdae-40f6-43d9-8300-72572daa40a5",
+        "admin": false
+      },
+      {
+        "clientName": "Jack",
+        "email": "jack@mail.com",
+        "password": "Kitty123456",
+        "id": "b09d4677-7a97-4ed7-9b27-e0a58797c13b",
+        "admin": true
+      },
+      {
+        "clientName": "Miaul",
+        "email": "miaul@mail.com",
+        "password": "Miawww987654",
+        "id": "b783711e-7626-41d3-bba9-e11e912edf58",
+        "admin": true
+      }
     ]
-}
+  }
